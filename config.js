@@ -2,7 +2,7 @@ const nameGirl = '';
 const giftUrl = '';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng Bà';
-const contentCard = 'Chúc Bà 20/10 tràn ngập niềm vui và những nụ cười, luôn thành công. Mong điều đẹp nhất sẽ đến với chị trong hôm nay và cả những ngày sau';
+const contentCard = 'Chúc bà 20/10 tràn ngập niềm vui và những nụ cười, luôn thành công. Mong điều đẹp nhất sẽ đến với bà trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
